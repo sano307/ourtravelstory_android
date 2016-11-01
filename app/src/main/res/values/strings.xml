@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Our Travel Story</string>
+
+    <string name="detail_story_name">스토리 이름</string>
+</resources>
